@@ -21,3 +21,5 @@
 右手在身体上方，左手在身体下方
 ## Template.png
 **Template.png**显示各部位对应的层次关系，通过Template.png可以具体了解各部位对应的层次关系，Template.png需扣除的部分已经去除
+
+**Template.png**默认使用纯色，外层皮肤的关系为对应的浅色系
